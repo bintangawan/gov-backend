@@ -26,8 +26,8 @@ Sistem ini mendukung **Autentikasi Hybrid** (Google OAuth + Manual Login), **Rol
 * **Pelacakan Status:** Memantau status pengajuan (*Pending*, *Approved*, *Rejected*) dan melihat catatan dari admin.
 
 ### 👥 Admin Akun (admin)
-* admin@sumut.gov.id
-* admin123
+* email: admin@sumut.gov.id
+* password: admin123
 ---
 
 ## 🛠️ Teknologi yang Digunakan
