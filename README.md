@@ -25,6 +25,9 @@ Sistem ini mendukung **Autentikasi Hybrid** (Google OAuth + Manual Login), **Rol
 * **Pengajuan Permohonan:** Mengajukan permohonan layanan (misal: Izin UMKM, KTP Digital) secara mudah.
 * **Pelacakan Status:** Memantau status pengajuan (*Pending*, *Approved*, *Rejected*) dan melihat catatan dari admin.
 
+### 👥 Admin Akun (admin)
+* admin@sumut.gov.id
+* admin123
 ---
 
 ## 🛠️ Teknologi yang Digunakan
